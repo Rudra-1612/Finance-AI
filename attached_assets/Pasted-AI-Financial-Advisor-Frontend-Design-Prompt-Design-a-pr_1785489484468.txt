@@ -1,0 +1,282 @@
+AI Financial Advisor - Frontend Design Prompt
+Design a premium, modern, responsive frontend for an AI-powered Financial Advisor web application. The design should feel similar to Stripe, Linear, Notion, and Apple—clean, minimal, elegant, and professional.
+Theme
+•	Both dark and light mode such that user can switch 
+•	Glassmorphism with subtle gradients
+•	Primary color: Emerald Green (#10B981)
+•	Secondary: Blue (#3B82F6)
+•	Background: Dark Gray (#0F172A)
+•	Cards: Slight transparency with blur effect
+•	Rounded corners (16px)
+•	Smooth animations and transitions
+•	Soft shadows
+•	Fully responsive for desktop, tablet, and mobile
+________________________________________
+Landing Page
+Hero Section
+Large headline:
+"Your Personal AI Financial Advisor"
+Subheading:
+"Track expenses, analyze spending, predict future finances, and receive personalized AI-powered financial insights."
+Buttons:
+•	Get Started
+•	Watch Demo
+Hero illustration:
+A futuristic financial dashboard with AI assistant, charts, and analytics.
+________________________________________
+Features Section
+Create feature cards with icons.
+Features:
+•	AI Financial Chatbot
+•	Expense Tracking
+•	Income Management
+•	Budget Planner
+•	Savings Goals
+•	Investment Insights
+•	Spending Predictions
+•	Fraud Detection
+•	Financial Health Score
+•	Weekly AI Reports
+Hover animations for each card.
+________________________________________
+Dashboard Preview
+Display a mock dashboard containing:
+Top Cards:
+•	Total Balance
+•	Monthly Income
+•	Monthly Expenses
+•	Total Savings
+Charts:
+•	Income vs Expense
+•	Expense Categories
+•	Savings Growth
+•	Monthly Spending Trend
+Recent Transactions Table
+Upcoming Bills
+Savings Goals Progress
+Financial Health Score
+________________________________________
+Testimonials
+Show three professional testimonial cards.
+________________________________________
+Pricing Section
+Free
+Pro
+Enterprise
+________________________________________
+Footer
+Quick Links
+Social Media Icons
+Privacy Policy
+Terms
+Contact
+________________________________________
+Authentication
+Login Page
+Minimal centered login card.
+Email
+Password
+Remember Me
+Forgot Password
+Login button
+Google Login
+Link to Register
+Animated background.
+________________________________________
+Register Page
+Name
+Email
+Phone
+Password
+Confirm Password
+Create Account
+Google Signup
+Already have an account?
+________________________________________
+Dashboard
+Sidebar Navigation:
+Dashboard
+Transactions
+Expenses
+Budgets
+Savings Goals
+Investments
+AI Advisor
+Reports
+Notifications
+Settings
+Logout
+Top Navigation
+Search Bar
+Notification Bell
+Profile Avatar
+Dark Mode Toggle
+________________________________________
+Dashboard Widgets
+Top Cards
+Total Balance
+Income
+Expenses
+Savings
+Net Worth
+Charts
+Monthly Income vs Expenses
+Expense Categories
+Savings Progress
+Cash Flow
+Recent Transactions
+Upcoming Bills
+Budget Progress Bars
+AI Insights Panel
+Example insights:
+"You spent 18% more on restaurants this month."
+"You could save approximately $120 next month by reducing subscription costs."
+Financial Health Score
+Circular progress indicator
+Score example: 82/100
+Savings Goals
+Progress bars
+Goal amount
+Deadline
+Remaining amount
+Recent Notifications
+AI recommendation alerts
+Budget warnings
+Bill reminders
+________________________________________
+AI Chatbot Page
+Chat interface similar to ChatGPT.
+Left sidebar:
+Conversation History
+New Chat
+Delete Chat
+Main area:
+Chat messages
+Suggested prompts:
+"How can I save more money?"
+"Analyze my spending."
+"Explain SIP."
+"Help me build an emergency fund."
+Input box with send button.
+Typing animation.
+________________________________________
+Expense Tracker
+Table with:
+Date
+Category
+Amount
+Payment Method
+Description
+Actions
+Add Expense Modal
+Category dropdown
+Amount
+Date
+Notes
+Buttons
+Save
+Cancel
+Filters
+Date
+Category
+Search
+________________________________________
+Budget Planner
+Cards for:
+Food
+Shopping
+Travel
+Bills
+Entertainment
+Healthcare
+Progress bars
+Spent vs Remaining
+Warnings when over budget.
+________________________________________
+Savings Goals
+Goal cards with:
+Goal Name
+Target Amount
+Current Amount
+Progress
+Deadline
+Add Goal button
+________________________________________
+Investment Education
+Educational cards for:
+Stocks
+ETFs
+Mutual Funds
+Bonds
+Gold
+Fixed Deposits
+Each card includes:
+Risk Level
+Time Horizon
+Liquidity
+Description
+Learn More button
+________________________________________
+Reports Page
+Charts
+Monthly Report
+Yearly Report
+Spending Breakdown
+Income Trends
+Download PDF
+Export CSV
+________________________________________
+Settings
+Profile
+Security
+Password
+Notifications
+Language
+Currency
+Theme
+Delete Account
+________________________________________
+UI Components
+Reusable Buttons
+Cards
+Tables
+Charts
+Badges
+Progress Bars
+Tooltips
+Modals
+Dropdowns
+Loading Skeletons
+Toast Notifications
+Pagination
+Search Bar
+Breadcrumbs
+Tabs
+Accordions
+________________________________________
+Animations
+Framer Motion
+Fade-in
+Slide-up
+Hover scale
+Button ripple
+Loading shimmer
+Chart animations
+Smooth page transitions
+________________________________________
+Tech Requirements
+React
+TypeScript
+Tailwind CSS
+Shadcn UI
+Framer Motion
+Recharts
+Lucide Icons
+React Router
+Responsive Design
+Accessible UI
+Component-based architecture
+Modern file structure
+Professional spacing and typography
+Produce a polished, production-quality frontend with clean code, reusable components, and a premium SaaS appearance.
+
