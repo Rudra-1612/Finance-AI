@@ -24,3 +24,17 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Local folders
+.local/
+
+# Cache
+.cache/
+.tmp/
+temp/
+
+# Logs
+logs/
