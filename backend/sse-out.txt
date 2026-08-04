@@ -1,0 +1,56 @@
+data:{"content":"Great question GÇö here's "}
+
+data:{"content":"some perspective on that"}
+
+data:{"content":".\n\nWhile I can't access "}
+
+data:{"content":"real-time market data or"}
+
+data:{"content":" your exact account bala"}
+
+data:{"content":"nces, I review the **fin"}
+
+data:{"content":"ancial data you've store"}
+
+data:{"content":"d in FinanceAI**. Your c"}
+
+data:{"content":"urrent monthly income is"}
+
+data:{"content":" **$5,650.00** with expe"}
+
+data:{"content":"nses of **$2,379.95**.\n\n"}
+
+data:{"content":"A few principles that us"}
+
+data:{"content":"ually apply:\n- **Spend l"}
+
+data:{"content":"ess than you earn**, and"}
+
+data:{"content":" automate the difference"}
+
+data:{"content":".\n- **Diversify** across"}
+
+data:{"content":" asset classes to manage"}
+
+data:{"content":" risk.\n- Keep **6 months"}
+
+data:{"content":"** of expenses liquid fo"}
+
+data:{"content":"r emergencies.\n- Review "}
+
+data:{"content":"your finances **monthly*"}
+
+data:{"content":"*, not yearly.\n\nIf you'd"}
+
+data:{"content":" like, ask me to *\"Analy"}
+
+data:{"content":"ze my spending\"* or *\"Bu"}
+
+data:{"content":"ild an emergency fund pl"}
+
+data:{"content":"an\"* and I'll use your r"}
+
+data:{"content":"eal data."}
+
+data:{"done":true}
+
